@@ -1,0 +1,20 @@
+***************** INSTRUCTIONS *******************
+
+1. Run the files in compatibility named folder to make sure all requirements are satisfied to run the Model.
+
+2. If Compatibilty Files check pass, You are good to go else make required changes in system.
+
+3. Run the face detection module first, it will collect data via cam.
+
+4. Run the trainer module ,it will train you face detection model to recognize the users whose facial images 
+are collected.
+
+5. Now your Model is ready for its purpose to fullfil.
+
+6. Run the Marking module, It will capture the real video via Webcam and recognize the Student and mark their 
+entry in attendence file.
+
+7. Followed by Marking module, Attendence module will be needed to run as it will create a CSV file containing
+ the record of students whose attendence is marked along with time of attendence was marked. 
+
+*************** THANK YOU *************************
